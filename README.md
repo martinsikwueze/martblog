@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/martinsikwueze/martblog.git
-   cd storepy
+   cd martblog
    ```
 2. Create and activate Virtual environment
    ```sh
