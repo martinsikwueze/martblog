@@ -18,15 +18,15 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Create and activate Virtual environment
    ```sh
-   python -m venv venv
+   python -m venv .venv
    ``` 
    * Windows
    ```powershell
-   .\venv\Scripts\activate
+   .\.venv\Scripts\activate
    ```
    * Linux
    ```sh
-   venv/bin/activate
+   .venv/bin/activate
    ```
 3. Install dependencies
    ```
