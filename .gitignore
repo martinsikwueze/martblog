@@ -1,5 +1,5 @@
-note.db
 .venv/
 .env
 *cache*
 .vscode/
+instance/
